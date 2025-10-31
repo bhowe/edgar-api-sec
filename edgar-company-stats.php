@@ -3,7 +3,7 @@
  * Plugin Name: EDGAR Company Stats
  * Description: Display public company stats using the SEC EDGAR API. Example: [edgar_stats symbol="IBM"]
  * Version: 1.0
- * Author: Your Name
+ * Author: Blake Howe
  * License: GPL2
  */
 
