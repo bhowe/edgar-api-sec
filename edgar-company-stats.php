@@ -13,6 +13,7 @@ if (! defined('ABSPATH')) {
     exit;
 }
 
+//need to replace this witgh your info. Its free to use no signup, they jsut want a real email.
 const EDGAR_COMPANY_STATS_USER_AGENT = 'WordPress Plugin - buildingbettersoftware.io blake@blakehowe.com';
 
 $GLOBALS['edgar_company_stats_last_error'] = '';
